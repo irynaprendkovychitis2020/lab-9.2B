@@ -1,0 +1,7 @@
+﻿  lab9.2B).cpp
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab9.2B)\lab9.2B)\lab9.2B).cpp(40,9): warning C4101: math_mark: неиспользованная локальная переменная
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab9.2B)\lab9.2B)\lab9.2B).cpp(39,9): warning C4101: found: неиспользованная локальная переменная
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab9.2B)\lab9.2B)\lab9.2B).cpp(38,9): warning C4101: MenuItem: неиспользованная локальная переменная
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab9.2B)\lab9.2B)\lab9.2B).cpp(41,12): warning C4101: avg: неиспользованная локальная переменная
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab9.2B)\lab9.2B)\lab9.2B).cpp(105,9): warning C4101: kurs: неиспользованная локальная переменная
+  lab9.2B).vcxproj -> C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab9.2B)\Debug\lab9.2B).exe
